@@ -1,4 +1,4 @@
-![](weight-converter.png)
+![](splash.png)
 
 # Weight Converter
 
